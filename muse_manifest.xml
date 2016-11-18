@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="тренька@.com" resolutions="1x" timestamp="1479498838820">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_______-b.css" crc="460367758" ref="5:3:4:8:2:6:7:1"/>
+    <file name="5.css" crc="4287291807" ref="5"/>
+    <file name="3.css" crc="353971930" ref="3"/>
+    <file name="4.css" crc="4075728809" ref="4"/>
+    <file name="8.css" crc="4184251629" ref="8"/>
+    <file name="index.css" crc="4056276154" ref="index"/>
+    <file name="2.css" crc="119152134" ref="2"/>
+    <file name="6.css" crc="336748594" ref="6"/>
+    <file name="7.css" crc="4098259346" ref="7"/>
+    <file name="1.css" crc="363065965" ref="1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="museutils.js" crc="3851988764" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="require.js" crc="4108833657" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="1:2:3:4:5:6:7:8"/>
+  </folder>
+  <folder name="images">
+    <file name="111111.jpg" crc="298598019" ref="index:1:2:3:4:5:6:7:8"/>
+    <file name="blank.gif" crc="4208392903" ref="1:2:3:4:5:6:7:8"/>
+    <file name="u543_states.png" crc="451993578" ref="1:2:3:4:5:6:7:8"/>
+    <file name="u543_states-m.png" crc="286099229" ref="1:2:3:4:5:6:7:8"/>
+  </folder>
+  <file name="index.html" crc="4040345605" seo="true" mt="1479474045269" redirect="true"/>
+  <file name="1.html" crc="4262193236" seo="true" mt="1479485373903" redirect="true"/>
+  <file name="2.html" crc="4125690629" seo="true" mt="1479485559608" redirect="true"/>
+  <file name="3.html" crc="3928556041" seo="true" mt="1479484908505" redirect="true"/>
+  <file name="4.html" crc="4054379108" seo="true" mt="1479485262777" redirect="true"/>
+  <file name="5.html" crc="148216548" seo="true" mt="1479495189989" redirect="true"/>
+  <file name="6.html" crc="262422167" seo="true" mt="1479498575082" redirect="true"/>
+  <file name="7.html" crc="4010293646" seo="true" mt="1479497979820" redirect="true"/>
+  <file name="8.html" crc="195230173" seo="true" mt="1479498207700" redirect="true"/>
+</manifest>
